@@ -1,3 +1,5 @@
 print("mani")
 print("sathish")
 print("hari")
+print("dhana")
+print("suresh")
